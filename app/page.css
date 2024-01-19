@@ -1,0 +1,36 @@
+.heading-secondary{
+    color: #D1495B;
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: #F0CEA0;
+}
+
+.second-section{
+    clip-path: circle(34.1% at 100% 100%);
+
+}
+
+.curve-bg-overlay {
+    -webkit-mask-image: url("https://www.tacostequilawhiskey.com/wp-content/themes/ttwstudio/app/images/featured-content-bg-vector.svg");
+    mask-image: url("https://www.tacostequilawhiskey.com/wp-content/themes/ttwstudio/app/images/featured-content-bg-vector.svg");
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-color: #d1495b;
+}
+
+.contact-form{
+    background: linear-gradient(105deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 50%, transparent 50%), url(../public/IMG_2389.jpeg);
+    background-position: bottom;
+    background-size: cover;
+}
+
+body{
+    overflow-x: hidden;
+    width: 100vw;
+}
