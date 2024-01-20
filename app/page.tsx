@@ -31,7 +31,7 @@ export default function Home() {
           </nav>
             <div className='m-20 w-screen mx-auto '>
                 <h1 className='text-center uppercase text-9xl text-custom-secondary-color'>Caribbean Fusion</h1>
-                <h2 className='heading-secondary text-center uppercase text-8xl text-custom-secondary-color'>Agi's Samosas</h2>
+                <h2 className='heading-secondary text-center uppercase text-8xl text-custom-secondary-color'>Agi&apos;s Samosas</h2>
                 <div className='mt-8 w-screen flex items-center'>
                 <button className='p-4 pl-8 pr-8 mx-auto text-center bg-custom-secondary-color text-2xl rounded-md border border-3 border-black'>Contact Us</button>
 
@@ -57,12 +57,12 @@ export default function Home() {
 
             <div className='w-[40%]  mx-auto flex mt-4'>
               <div className='h-[30%] w-[50%] uppercase mr-12'>
-                <h3 className='text-3xl text-custom-primary-color'>Hollywood Farmer's Market</h3>
+                <h3 className='text-3xl text-custom-primary-color'>Hollywood Farmer&apos;s Market</h3>
                 <h5 className='text-xl uppercase'>Sunday</h5>
                 <h5 className='text-xl'>8AM to 1PM</h5>
               </div>
               <div className='h-[30%] w-[50%] uppercase'>
-                <h3 className='text-3xl text-custom-primary-color'>Playa Vista Farmer's Market</h3>
+                <h3 className='text-3xl text-custom-primary-color'>Playa Vista Farmer&apos;s Market</h3>
                 <h5 className='text-xl uppercase'>Saturday</h5>
                 <h5 className='text-xl'>9AM to 2PM</h5>
 
